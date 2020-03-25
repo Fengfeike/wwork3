@@ -1,9 +1,10 @@
 
 $(function(){
+  
   var myChart = echarts.init($('.main').get(0));
   var xData = [2000,2005,2010,2015,2020];
   var yData = [0,2,4,6,8,10];
-
+   var container = $('.main');
   var option ={
     title:{
       text:'JavaScript语言排名变化'

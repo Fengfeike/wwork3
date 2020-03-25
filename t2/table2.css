@@ -5,3 +5,14 @@ html,body {
   width: 90%;
   height: 80%;
 }
+
+#excel{
+  width:600px;
+  height:350px;
+  margin:0 auto;
+}
+#main{
+  width:600px;
+  height:300px;
+  margin:0 auto;
+ }
